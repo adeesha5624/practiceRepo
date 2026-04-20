@@ -1,0 +1,6 @@
+Creating Branch
+cd your-project-folder
+git branch branch-name
+git checkout branch-name
+git checkout -b branch-name
+git push origin branch-name
